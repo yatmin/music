@@ -293,9 +293,9 @@ min-width:960px;background: #F7F7F7 none repeat scroll 0% 0%;overflow: hidden;cl
 
 
 .visitor_cp{background-color:#FFF;width: 47px;height: 106px;position: fixed;right: 20px;
-bottom: 30%; border-radius: 5px; box-shadow: 0px 0px 2px #6E6E6E;outline: 0px none; }
+bottom: 30%; border-radius: 5px; box-shadow: 0px 0px 2px #6E6E6E; }
 .visitor_cp button{background: transparent url(img/bg/frame_bg.png) no-repeat no-repeat scroll 0% 0%;display: block;text-indent: 999em;line-height: 9999px;width: 37px;margin: 5px;
-border: 0px none;overflow: hidden;float: left;cursor: pointer;}
+border: 0px none;overflow: hidden;float: left;cursor: pointer;outline: 0px none;}
 
 .visitor_cp .get_top{background-position: -896px -91px;height: 22px;}
 .visitor_cp .get_feedback{background-position: -896px -113px;height: 32px;}
