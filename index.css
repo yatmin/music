@@ -293,7 +293,7 @@ min-width:960px;background: #F7F7F7 none repeat scroll 0% 0%;overflow: hidden;cl
 
 
 .visitor_cp{background-color:#FFF;width: 47px;height: 106px;position: fixed;right: 20px;
-bottom: 30%; border-radius: 5px; box-shadow: 0px 0px 2px #6E6E6E; }
+bottom: 30%; border-radius: 5px; box-shadow: 0px 0px 2px #6E6E6E;outline: 0px none; }
 .visitor_cp button{background: transparent url(img/bg/frame_bg.png) no-repeat no-repeat scroll 0% 0%;display: block;text-indent: 999em;line-height: 9999px;width: 37px;margin: 5px;
 border: 0px none;overflow: hidden;float: left;cursor: pointer;}
 
@@ -356,7 +356,6 @@ top: -1px;cursor: pointer;}
 right: 37px;text-indent: -9999px;cursor: pointer;}
 
 .m_player .folded_bt{background: transparent url(img/bg/player_bg.png) no-repeat scroll 0px 0px;display: block;width: 22px;height: 115px;border: 0px none;position: absolute;top: 0px;
-right: 0px;}
-.m_player_folded .folded_bt { background: transparent url(img/bg/player_bg.png) no-repeat scroll -23px 0px;
-}
+right: 0px;outline: 0px none;}
+.m_player_folded .folded_bt { background: transparent url(img/bg/player_bg.png) no-repeat scroll -23px 0px;outline: 0px none;}
 .m_player .folded_bt span {display: none;}
